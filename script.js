@@ -40,7 +40,7 @@ document.addEventListener("DOMContentLoaded", function () {
             // Redirect to the third screen with the matched breed as a query parameter
             window.location.href = `./third-scree.html?breed=${matchedBreed}`;
         } else {
-            alert("No matching pet breed found for your zodiac sign."); // No matching breed found
+            alert("formatting error, First letter needs to be Uppercase ex Aries or Scorpio"); // No matching breed found
         }
     }
 
