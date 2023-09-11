@@ -40,15 +40,7 @@ For questions or collaboration opportunities, please reach out to [Your Name] at
 <br>
 Enjoy exploring the world of dog breeds with the Dog Breed Information App!
 
-In this example, replace Jeury Santos and jeuurysantos1@gmail.com with your actual name and contact information. You can also customize the file names for your license and contribution guidelines, or create them as needed. This project description provides a clear overview of your application's purpose, features, technologies used, and how to use it.
-
-
-
-
-User
-Description cannot be more than 350 characters
-ChatGPT
-Certainly, here's a shortened project description under 350 characters:
+In this example, replace Jeury Santos and jeurysantos1@gmail.com with your actual name and contact information. You can also customize the file names for your license and contribution guidelines, or create them as needed. This project description provides a clear overview of your application's purpose, features, technologies used, and how to use it.
 
 Dog Breed Info: Zodiac-Matched Dogs
 Discover dog breeds that match your zodiac sign! Get info on temperament, care, and more. A fun way to find your perfect pet companion!
